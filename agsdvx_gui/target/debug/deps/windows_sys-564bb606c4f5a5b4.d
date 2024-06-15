@@ -1,0 +1,10 @@
+E:\Github\AgSDVX_GUI\agsdvx_gui\target\debug\deps\libwindows_sys-564bb606c4f5a5b4.rmeta: F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\lib.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\Foundation\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\literals.rs
+
+E:\Github\AgSDVX_GUI\agsdvx_gui\target\debug\deps\windows_sys-564bb606c4f5a5b4.d: F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\lib.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\Foundation\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\mod.rs F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\literals.rs
+
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\lib.rs:
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\mod.rs:
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\mod.rs:
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\Windows\Win32\Foundation\mod.rs:
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\mod.rs:
+F:\Rust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-sys-0.48.0\src\core\literals.rs:
